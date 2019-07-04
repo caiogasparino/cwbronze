@@ -154,7 +154,7 @@ button,
 input,
 select,
 textarea {
-  margin: 0;
+  margin: 01rem;
   font-family: inherit;
   font-size: 100%;
 }
