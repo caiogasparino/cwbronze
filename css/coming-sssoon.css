@@ -1174,7 +1174,7 @@ fieldset[disabled] .btn-warning.active {
 
 @media (min-width:768px) {
     .main .subscribe .form-inline .btn {
-        width: auto;
+        width: -webkit-fill-available;
     }
 }
 
