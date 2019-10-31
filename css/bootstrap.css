@@ -23,6 +23,12 @@ summary {
   display: block;
 }
 
+.imagemanuncio{
+  float: right;
+  height: 15em;
+  width: 15em;
+}
+
 audio,
 canvas,
 video {
